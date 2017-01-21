@@ -1,1 +1,1 @@
-# windows
+This is a compiled version of the [Overcharge.tv](https://overcharge.tv) stream companion using Atom's [Electron](http://electron.atom.io/) and [Nativefier](https://github.com/jiahaog/nativefier). It is a stable work-in-progress, though further development has been paused until requests for a standalone Windows application is requested.
